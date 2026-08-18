@@ -1,0 +1,18 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [ 15, 88 ],
+		"min_format": 15,
+		"max_format": 88,
+		"description": [
+			"",
+			{
+				"text": "Slim Arms Armor Models\n",
+				"color": "#94c892"
+			},
+			{
+				"text": "v1.0 | By MaidenLuminous"
+			}
+		]
+	}
+}
